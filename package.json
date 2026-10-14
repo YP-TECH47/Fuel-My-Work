@@ -1,0 +1,27 @@
+{
+  "name": "get_me_a_chai",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "mongoose": "^9.7.2",
+    "next": "16.2.6",
+    "next-auth": "^4.24.14",
+    "nodemailer": "^7.0.13",
+    "razorpay": "^2.9.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "react-toastify": "^9.1.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.6",
+    "tailwindcss": "^4"
+  }
+}

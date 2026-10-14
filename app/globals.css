@@ -1,0 +1,5 @@
+@import "tailwindcss";
+.scrollable-container {
+  max-height: 300px;    /* Sets the upper limit for the div height */
+  overflow-y: auto;     /* Adds a vertical scrollbar ONLY when content overflows */
+}
